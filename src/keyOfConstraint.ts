@@ -51,3 +51,8 @@ console.log(result2);
 //shobar jonnoi user korlam 
 //keyof x theke type peye jacche
 // checkout
+// checkout
+// checkout
+// checkout
+// checkout
+// checkout
